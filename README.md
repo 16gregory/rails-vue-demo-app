@@ -1,3 +1,5 @@
+I AM ON THE MAIN BRANCH
+
 # Rails + Vite + Vue + Pina Demo App
 
 ## Description
@@ -10,7 +12,11 @@ All the basic features you need to build a real world app with:
 - **Forms** (with progress and error handling)
 - **Authentication** (Devise)
 - **Pagination** (Kaminari)
-- **Dynamic search filters** (Ransack)
+- **Dynamic search filters** (Ransack)Your branch is up to date with 'origin/main'.
+
+
+deepibox@ubuntu:~/www/rails-vue-demo-app$ 
+
 - **Websockets** (ActionCable)
 - **Bootstrap like grid** (using CSS Grid layout)
 
